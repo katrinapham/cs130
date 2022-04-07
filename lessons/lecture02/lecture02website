@@ -1,0 +1,74 @@
+<header>
+    <h1>The Power of Taylor Swift</h1>
+  </header>
+  
+  <nav>
+    <a href="#">London</a><br> 
+    <a href="#">Paris</a><br> 
+    <a href="#">Tokyo</a>
+  </nav>
+  
+  
+  <h1>Tay Tay Swiftie</h1>
+  <p> Taylor Swift reminds me of when I was young and performed one of her songs with my friends for our elementary school talent show. </p>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png" />
+  <img src="https://i.imgflip.com/efcqy.jpg" />
+  <img src="http://www.dailyhaha.com/_gifs/smiling-dog.gif" />
+  
+  <iframe src="https://www.youtube.com/watch?v=WA4iX5D9Z64"
+     width="560" height="315" frameborder="0" allowfullscreen></iframe>
+  
+  <p>
+     Reasons why I'm a Swiftie
+        <ul>
+           <li>feminism</li>
+           <li>music</li>
+           <li>hate men</li>
+        </ul>
+  </p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Song Name</th>
+        <th>Level of Swag (1-5)</th>
+        <th>Coolness Ranking (1-5)</th>
+        <th>Danceability (1-5)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>You Belong with Me</td>
+        <td>4</td>
+        <td>5</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>I Knew You Were Trouble</td>
+        <td>3</td>
+        <td>4</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Love Story</td>
+        <td>5</td>
+        <td>5</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Bad Blood</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>9</td>
+      </tr>
+    </tfoot>
+  </table>
