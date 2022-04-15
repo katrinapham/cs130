@@ -1,20 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display&family=Poppins:wght@100;300&display=swap');
+
 * {
     box-sizing: border-box;
+}
+header {
+    height: 16vh;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    min-height: 84vh;
+}
+
+#tutorials {
+    background-color: #FFF0F5;
+}
+#homework {
+    background-color: #E0FFFF;
+}
+#inspiration {
+    background-color: #E6E6FA;
 }
 
 body {
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 header, section {
-    padding: 20px;
+    padding: 5px;
 }
 p, li {
     line-height: 1.5em;
-}
-
-#inspiration {
-    background-color: #F0F0F0;
-    padding-top: 40px;
-    padding-bottom: 40px;
 }
